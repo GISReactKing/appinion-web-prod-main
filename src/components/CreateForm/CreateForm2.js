@@ -11,8 +11,8 @@ const config = {
   bucketName: "appinionapp-stag",
   dirName: "users" /* optional */,
   region: "eu-west-2",
-  accessKeyId: "AKIARQTL3ICSHIICHT6J",
-  secretAccessKey: "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",
+  accessKeyId: "amazon accessKeyId",
+  secretAccessKey: "amazon secretAccessKey",
 };
 
 const CreateForm2 = ({ onNext, onBack, values }) => {
